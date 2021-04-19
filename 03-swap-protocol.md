@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **swap protocol** defines the process wich two parties conclude an atomic swap using an interactive exchange of signed messages and Elements transaction.
+The **swap protocol** defines the process which two parties conclude an atomic swap using an interactive exchange of signed messages and Elements transaction.
 
 Identifying with *Alice* as the **Proposer** and *Bob* the **Responder**:
 
